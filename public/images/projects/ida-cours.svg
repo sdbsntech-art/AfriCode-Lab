@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" fill="none">
+  <defs>
+    <linearGradient id="background" x1="70" y1="40" x2="1120" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCE9DF"/>
+      <stop offset="1" stop-color="#F7EDE0"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="260" y1="160" x2="920" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#214E3A"/>
+      <stop offset="1" stop-color="#132F24"/>
+    </linearGradient>
+    <filter id="shadow" x="125" y="70" width="950" height="635" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="750" rx="38" fill="url(#background)"/>
+  <circle cx="1032" cy="134" r="92" fill="#D87842" fill-opacity=".14"/>
+  <circle cx="126" cy="616" r="112" fill="#1D4935" fill-opacity=".09"/>
+  <ellipse cx="602" cy="634" rx="394" ry="31" fill="#173528" fill-opacity=".16" filter="url(#shadow)"/>
+  <rect x="170" y="91" width="860" height="514" rx="28" fill="#193A2C"/>
+  <rect x="184" y="105" width="832" height="486" rx="18" fill="#F8F7F1"/>
+  <path d="M202 105h796a18 18 0 0 1 18 18v43H184v-43a18 18 0 0 1 18-18Z" fill="#fff"/>
+  <circle cx="210" cy="133" r="6" fill="#D87842"/>
+  <circle cx="231" cy="133" r="6" fill="#E8C08D"/>
+  <circle cx="252" cy="133" r="6" fill="#7C9D86"/>
+  <rect x="285" y="124" width="332" height="18" rx="9" fill="#F0F1EA"/>
+  <rect x="184" y="166" width="173" height="425" fill="url(#screen)"/>
+  <rect x="209" y="190" width="124" height="28" rx="9" fill="#FFFFFF" fill-opacity=".12"/>
+  <circle cx="226" cy="204" r="7" fill="#E6B17F"/>
+  <rect x="241" y="200" width="72" height="8" rx="4" fill="#FFFFFF" fill-opacity=".86"/>
+  <rect x="207" y="251" width="102" height="8" rx="4" fill="#FFFFFF" fill-opacity=".72"/>
+  <rect x="207" y="281" width="119" height="8" rx="4" fill="#FFFFFF" fill-opacity=".38"/>
+  <rect x="207" y="311" width="92" height="8" rx="4" fill="#FFFFFF" fill-opacity=".38"/>
+  <rect x="207" y="341" width="112" height="8" rx="4" fill="#FFFFFF" fill-opacity=".38"/>
+  <rect x="207" y="371" width="82" height="8" rx="4" fill="#FFFFFF" fill-opacity=".38"/>
+  <text x="390" y="218" fill="#18382B" font-family="Arial,sans-serif" font-size="27" font-weight="700">IDA Cours</text>
+  <text x="390" y="248" fill="#708075" font-family="Arial,sans-serif" font-size="14">Maquette illustrative de la plateforme</text>
+  <rect x="390" y="279" width="559" height="132" rx="18" fill="#E8EEE5"/>
+  <rect x="417" y="304" width="248" height="15" rx="7" fill="#214E3A"/>
+  <rect x="417" y="331" width="342" height="10" rx="5" fill="#829187"/>
+  <rect x="417" y="352" width="289" height="10" rx="5" fill="#A4AEA5"/>
+  <rect x="417" y="378" width="117" height="20" rx="10" fill="#D87842"/>
+  <rect x="390" y="432" width="171" height="125" rx="15" fill="#FFFFFF" stroke="#E4E7DD"/>
+  <rect x="409" y="450" width="132" height="50" rx="10" fill="#F3E6D9"/>
+  <path d="M429 486v-13l13-11 14 11v13h-27Z" fill="#B85E32"/>
+  <rect x="409" y="513" width="111" height="9" rx="4" fill="#294F3B"/>
+  <rect x="409" y="531" width="82" height="7" rx="3" fill="#A1AAA0"/>
+  <rect x="576" y="432" width="171" height="125" rx="15" fill="#FFFFFF" stroke="#E4E7DD"/>
+  <rect x="595" y="450" width="132" height="50" rx="10" fill="#E1EAE4"/>
+  <circle cx="661" cy="475" r="17" stroke="#1D4935" stroke-width="4"/>
+  <path d="m655 475 5 5 9-11" stroke="#1D4935" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="595" y="513" width="111" height="9" rx="4" fill="#294F3B"/>
+  <rect x="595" y="531" width="82" height="7" rx="3" fill="#A1AAA0"/>
+  <rect x="762" y="432" width="187" height="125" rx="15" fill="#FFFFFF" stroke="#E4E7DD"/>
+  <rect x="781" y="450" width="149" height="50" rx="10" fill="#F5E9DE"/>
+  <path d="M797 486h12v-14h12v14h12v-25h12v25h12v-18h12v18h12" stroke="#B85E32" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="781" y="513" width="111" height="9" rx="4" fill="#294F3B"/>
+  <rect x="781" y="531" width="82" height="7" rx="3" fill="#A1AAA0"/>
+  <path d="M117 605h966l-55 59H172l-55-59Z" fill="#D6D8D0"/>
+  <path d="M406 605h388l-29 30H435l-29-30Z" fill="#B7BCB3"/>
+  <rect x="477" y="642" width="246" height="7" rx="3.5" fill="#A2A89F"/>
+  <rect x="856" y="87" width="226" height="44" rx="22" fill="#fff" fill-opacity=".88"/>
+  <text x="880" y="115" fill="#1D4935" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">PROJET NUMÉRIQUE</text>
+</svg>
